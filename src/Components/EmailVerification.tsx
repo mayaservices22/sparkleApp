@@ -42,7 +42,7 @@ const EmailVerification: React.FC = () => {
           <h1 className="text-3xl font-semibold text-gray-800 mb-3">
             Welcome Back
           </h1>
-          <p className="text-gray-600 text-lg">Input your email address</p>
+          <p className="text-gray-600 text-lg">Enter email address or Phone Number</p>
         </div>
         <div className="flex flex-row items-center gap-4 border-b border-gray-300 pb-3 mb-8 w-full max-w-md">
           <MdMail className="text-gray-600 text-2xl" />
