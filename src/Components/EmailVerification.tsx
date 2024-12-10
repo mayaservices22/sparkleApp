@@ -48,7 +48,7 @@ const EmailVerification: React.FC = () => {
           <MdMail className="text-gray-600 text-2xl" />
           <input
             type="text"
-            placeholder="Email Address"
+            placeholder="Email or Phone Number"
             value={email}
             onChange={handleEmailChange}
             className="flex-1 p-3 text-lg rounded-md focus:outline-none"
